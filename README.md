@@ -18,3 +18,9 @@ Node that are working:
   * UP/DOWN/STOP
   * Tilt (comming soon)
   * Positions (comming soon)
+
+* Debug
+  * Listen for any message on the bus and sends it as payload
+
+* Command Session
+  * Send arbitray message provided in payload to bus. E.g. *#1*67## to turn on light 6.7
